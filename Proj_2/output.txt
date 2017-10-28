@@ -1,0 +1,85 @@
+the number of comparisons for key 1:
+searching list: 16.000000
+searching tree: 16.000000
+searching balanced tree: 5.000000
+
+the number of comparisons for key 2:
+searching list: 15.000000
+searching tree: 15.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 3:
+searching list: 14.000000
+searching tree: 14.000000
+searching balanced tree: 3.000000
+
+the number of comparisons for key 4:
+searching list: 13.000000
+searching tree: 13.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 5:
+searching list: 12.000000
+searching tree: 12.000000
+searching balanced tree: 2.000000
+
+the number of comparisons for key 6:
+searching list: 11.000000
+searching tree: 11.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 7:
+searching list: 10.000000
+searching tree: 10.000000
+searching balanced tree: 3.000000
+
+the number of comparisons for key 8:
+searching list: 9.000000
+searching tree: 9.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 9:
+searching list: 8.000000
+searching tree: 8.000000
+searching balanced tree: 1.000000
+
+the number of comparisons for key 10:
+searching list: 7.000000
+searching tree: 7.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 11:
+searching list: 6.000000
+searching tree: 6.000000
+searching balanced tree: 3.000000
+
+the number of comparisons for key 12:
+searching list: 5.000000
+searching tree: 5.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 13:
+searching list: 4.000000
+searching tree: 4.000000
+searching balanced tree: 2.000000
+
+the number of comparisons for key 14:
+searching list: 3.000000
+searching tree: 3.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 15:
+searching list: 2.000000
+searching tree: 2.000000
+searching balanced tree: 3.000000
+
+the number of comparisons for key 16:
+searching list: 1.000000
+searching tree: 1.000000
+searching balanced tree: 4.000000
+
+the number of comparisons for key 17:
+searching list: 16.000000
+searching tree: 1.000000
+searching balanced tree: 4.000000
+
